@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925206778571",
+    "project_id": "chatgpt-multi-language",
+    "storage_bucket": "chatgpt-multi-language.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925206778571:android:8089f7274ef02e9720c14e",
+        "android_client_info": {
+          "package_name": "com.chatgpt.max.chatgpt_multi_language"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925206778571-0hgl9l1odq45tecu9repktfode8ketp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiMwV4_abfWzPDHHQJq2pUuaBsu4TbdNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925206778571-0hgl9l1odq45tecu9repktfode8ketp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
